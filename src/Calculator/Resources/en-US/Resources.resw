@@ -1546,7 +1546,7 @@
     <comment>Unit conversion category name called Currency</comment>
   </data>
   <data name="UnitName_FluidOunceUK" xml:space="preserve">
-    <value>Fluid ounces (UK)</value>
+    <value>Fluid ounces fl oz (UK)</value>
     <comment>A measurement unit for volume, in plural. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_FluidOunceUK" xml:space="preserve">
@@ -1554,7 +1554,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_FluidOunceUS" xml:space="preserve">
-    <value>Fluid ounces (US)</value>
+    <value>Fluid ounces fl oz (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_FluidOunceUS" xml:space="preserve">
@@ -1562,7 +1562,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_GallonUK" xml:space="preserve">
-    <value>Gallons (UK)</value>
+    <value>Gallons gal (UK)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_GallonUK" xml:space="preserve">
@@ -1570,7 +1570,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_GallonUS" xml:space="preserve">
-    <value>Gallons (US)</value>
+    <value>Gallons gal (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_GallonUS" xml:space="preserve">
@@ -1578,7 +1578,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_Liter" xml:space="preserve">
-    <value>Liters</value>
+    <value>Liters L</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Liter" xml:space="preserve">
@@ -1586,7 +1586,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_Milliliter" xml:space="preserve">
-    <value>Milliliters</value>
+    <value>Milliliters mL</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Milliliter" xml:space="preserve">
@@ -1594,7 +1594,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_PintUK" xml:space="preserve">
-    <value>Pints (UK)</value>
+    <value>Pints pt (UK)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_PintUK" xml:space="preserve">
@@ -1602,7 +1602,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_PintUS" xml:space="preserve">
-    <value>Pints (US)</value>
+    <value>Pints pt (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_PintUS" xml:space="preserve">
@@ -1610,7 +1610,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_TablespoonUS" xml:space="preserve">
-    <value>Tablespoons (US)</value>
+    <value>Tablespoons tbsp (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_TablespoonUS" xml:space="preserve">
@@ -1618,7 +1618,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_TeaspoonUS" xml:space="preserve">
-    <value>Teaspoons (US)</value>
+    <value>Teaspoons tsp. (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_TeaspoonUS" xml:space="preserve">
@@ -1626,7 +1626,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_TablespoonUK" xml:space="preserve">
-    <value>Tablespoons (UK)</value>
+    <value>Tablespoons tbsp. (UK)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_TablespoonUK" xml:space="preserve">
@@ -1634,7 +1634,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_TeaspoonUK" xml:space="preserve">
-    <value>Teaspoons (UK)</value>
+    <value>Teaspoons tsp. (UK)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_TeaspoonUK" xml:space="preserve">
@@ -1642,7 +1642,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_QuartUK" xml:space="preserve">
-    <value>Quarts (UK)</value>
+    <value>Quarts qt (UK)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_QuartUK" xml:space="preserve">
@@ -1650,7 +1650,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_QuartUS" xml:space="preserve">
-    <value>Quarts (US)</value>
+    <value>Quarts qt (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_QuartUS" xml:space="preserve">
@@ -1658,7 +1658,7 @@
     <comment>An abbreviation for a measurement unit of volume</comment>
   </data>
   <data name="UnitName_CupUS" xml:space="preserve">
-    <value>Cups (US)</value>
+    <value>Cups cup (US)</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_CupUS" xml:space="preserve">
@@ -2026,275 +2026,275 @@
     <comment>An abbreviation for a measurement unit of data</comment>
   </data>
   <data name="UnitName_Acre" xml:space="preserve">
-    <value>Acres</value>
+    <value>Acres ac</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Bit" xml:space="preserve">
-    <value>Bits</value>
+    <value>Bits b</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_BritishThermalUnit" xml:space="preserve">
-    <value>British thermal units</value>
+    <value>British thermal units BTU</value>
     <comment>A measurement unit for energy. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_BTUPerMinute" xml:space="preserve">
-    <value>BTUs/minute</value>
+    <value>BTUs/minute BTU/min</value>
     <comment>A measurement unit for power: British Thermal Units per minute. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Byte" xml:space="preserve">
-    <value>Bytes</value>
+    <value>Bytes B</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Calorie" xml:space="preserve">
-    <value>Thermal calories</value>
+    <value>Thermal calories cal</value>
     <comment>A measurement unit for energy. Please note that this is the "small calorie" used in science for measuring heat energy, not the "large calorie" commonly used for measuring food energy. If there is a simple term to distinguish this one from the large "Food calorie", please use that. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Centimeter" xml:space="preserve">
-    <value>Centimeters</value>
+    <value>Centimeters cm</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CentimetersPerSecond" xml:space="preserve">
-    <value>Centimeters per second</value>
+    <value>Centimeters per second cm/s</value>
     <comment>A measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CubicCentimeter" xml:space="preserve">
-    <value>Cubic centimeters</value>
+    <value>Cubic centimeters cm³</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CubicFoot" xml:space="preserve">
-    <value>Cubic feet</value>
+    <value>Cubic feet ft³</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CubicInch" xml:space="preserve">
-    <value>Cubic inches</value>
+    <value>Cubic inches in³</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CubicMeter" xml:space="preserve">
-    <value>Cubic meters</value>
+    <value>Cubic meters m³</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CubicYard" xml:space="preserve">
-    <value>Cubic yards</value>
+    <value>Cubic yards yd³</value>
     <comment>A measurement unit for volume. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Day" xml:space="preserve">
-    <value>Days</value>
+    <value>Days d</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_DegreesCelsius" xml:space="preserve">
-    <value>Celsius</value>
+    <value>Celsius °C</value>
     <comment>An option in the unit converter to select degrees Celsius</comment>
   </data>
   <data name="UnitName_DegreesFahrenheit" xml:space="preserve">
-    <value>Fahrenheit</value>
+    <value>Fahrenheit °F</value>
     <comment>An option in the unit converter to select degrees Fahrenheit</comment>
   </data>
   <data name="UnitName_Electron-Volt" xml:space="preserve">
-    <value>Electron volts</value>
+    <value>Electron volts eV</value>
     <comment>A measurement unit for energy. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Foot" xml:space="preserve">
-    <value>Feet</value>
+    <value>Feet ft</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_FeetPerSecond" xml:space="preserve">
-    <value>Feet per second</value>
+    <value>Feet per second ft/s</value>
     <comment>A measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Foot-Pound" xml:space="preserve">
-    <value>Foot-pounds</value>
+    <value>Foot-pounds ft•lb</value>
     <comment>A measurement unit for energy. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Foot-PoundPerMinute" xml:space="preserve">
-    <value>Foot-pounds/minute</value>
+    <value>Foot-pounds/minute ft•lb/min</value>
     <comment>A measurement unit for power. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Gigabit" xml:space="preserve">
-    <value>Gigabits</value>
+    <value>Gigabits Gb</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Gigabyte" xml:space="preserve">
-    <value>Gigabytes</value>
+    <value>Gigabytes GB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Hectare" xml:space="preserve">
-    <value>Hectares</value>
+    <value>Hectares ha</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Horsepower" xml:space="preserve">
-    <value>Horsepower (US)</value>
+    <value>Horsepower hsp (US)</value>
     <comment>A measurement unit for power</comment>
   </data>
   <data name="UnitName_Hour" xml:space="preserve">
-    <value>Hours</value>
+    <value>Hours h</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Inch" xml:space="preserve">
-    <value>Inches</value>
+    <value>Inches in</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Joule" xml:space="preserve">
-    <value>Joules</value>
+    <value>Joules J</value>
     <comment>A measurement unit for energy. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kelvin" xml:space="preserve">
-    <value>Kelvin</value>
+    <value>Kelvin K</value>
     <comment>An option in the unit converter to select the temperature system "Kelvin" (eg. 0 degrees Celsius = 273 Kelvin). At least in English, Kelvin does not use "degrees". A measurement is just stated as "273 Kelvin".</comment>
   </data>
   <data name="UnitName_Kilobit" xml:space="preserve">
-    <value>Kilobits</value>
+    <value>Kilobits kb</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilobyte" xml:space="preserve">
-    <value>Kilobytes</value>
+    <value>Kilobytes kB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilocalorie" xml:space="preserve">
-    <value>Food calories</value>
+    <value>Food calories kcal</value>
     <comment>A measurement unit for energy. The scientific name is kilocalorie, but this is what is commonly referred to as a "calorie" or "large calorie" when talking about food. Please use the everyday-use word for food energy calories if there is one. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilojoule" xml:space="preserve">
-    <value>Kilojoules</value>
+    <value>Kilojoules kJ</value>
     <comment>A measurement unit for energy. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilometer" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>Kilometers km</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_KilometersPerHour" xml:space="preserve">
-    <value>Kilometers per hour</value>
+    <value>Kilometers per hour km/h</value>
     <comment>A measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilowatt" xml:space="preserve">
-    <value>Kilowatts</value>
+    <value>Kilowatts kW</value>
     <comment>A measurement unit for power. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Knot" xml:space="preserve">
-    <value>Knots</value>
+    <value>Knots kn</value>
     <comment>A nautical/aerial measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Mach" xml:space="preserve">
-    <value>Mach</value>
+    <value>Mach M</value>
     <comment>A measurement of speed (Mach is the speed of sound, Mach 2 is 2 times the speed of sound)</comment>
   </data>
   <data name="UnitName_Megabit" xml:space="preserve">
-    <value>Megabits</value>
+    <value>Megabits Mb</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Megabyte" xml:space="preserve">
-    <value>Megabytes</value>
+    <value>Megabytes MB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Meter" xml:space="preserve">
-    <value>Meters</value>
+    <value>Meters m</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_MetersPerSecond" xml:space="preserve">
-    <value>Meters per second</value>
+    <value>Meters per second m/s</value>
     <comment>A measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Micron" xml:space="preserve">
-    <value>Microns</value>
+    <value>Microns µm</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Microsecond" xml:space="preserve">
-    <value>Microseconds</value>
+    <value>Microseconds µs</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Mile" xml:space="preserve">
-    <value>Miles</value>
+    <value>Miles mi</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_MilesPerHour" xml:space="preserve">
-    <value>Miles per hour</value>
+    <value>Miles per hour mph</value>
     <comment>A measurement unit for speed. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Millimeter" xml:space="preserve">
-    <value>Millimeters</value>
+    <value>Millimeters mm</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Millisecond" xml:space="preserve">
-    <value>Milliseconds</value>
+    <value>Milliseconds ms</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Minute" xml:space="preserve">
-    <value>Minutes</value>
+    <value>Minutes min</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Nanometer" xml:space="preserve">
-    <value>Nanometers</value>
+    <value>Nanometers nm</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_NauticalMile" xml:space="preserve">
-    <value>Nautical miles</value>
+    <value>Nautical miles nmi</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Petabit" xml:space="preserve">
-    <value>Petabits</value>
+    <value>Petabits Pb</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Petabyte" xml:space="preserve">
-    <value>Petabytes</value>
+    <value>Petabytes PB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Second" xml:space="preserve">
-    <value>Seconds</value>
+    <value>Seconds s</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareCentimeter" xml:space="preserve">
-    <value>Square centimeters</value>
+    <value>Square centimeters cm²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareFoot" xml:space="preserve">
-    <value>Square feet</value>
+    <value>Square feet ft²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareInch" xml:space="preserve">
-    <value>Square inches</value>
+    <value>Square inches in²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareKilometer" xml:space="preserve">
-    <value>Square kilometers</value>
+    <value>Square kilometers km²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareMeter" xml:space="preserve">
-    <value>Square meters</value>
+    <value>Square meters m²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareMile" xml:space="preserve">
-    <value>Square miles</value>
+    <value>Square miles mi²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareMillimeter" xml:space="preserve">
-    <value>Square millimeters</value>
+    <value>Square millimeters mm²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_SquareYard" xml:space="preserve">
-    <value>Square yards</value>
+    <value>Square yards yd²</value>
     <comment>A measurement unit for area. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Terabit" xml:space="preserve">
-    <value>Terabits</value>
+    <value>Terabits Tb</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Terabyte" xml:space="preserve">
-    <value>Terabytes</value>
+    <value>Terabytes TB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Watt" xml:space="preserve">
-    <value>Watts</value>
+    <value>Watts W</value>
     <comment>A measurement unit for power. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Week" xml:space="preserve">
-    <value>Weeks</value>
+    <value>Weeks wk</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Yard" xml:space="preserve">
-    <value>Yards</value>
+    <value>Yards yd</value>
     <comment>A measurement unit for length. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Year" xml:space="preserve">
-    <value>Years</value>
+    <value>Years y</value>
     <comment>A measurement unit for time. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitAbbreviation_Carat" xml:space="preserve">
@@ -2390,95 +2390,95 @@
     <comment>An abbreviation for a measurement unit of weight</comment>
   </data>
   <data name="UnitName_Carat" xml:space="preserve">
-    <value>Carats</value>
+    <value>Carats CD</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Degree" xml:space="preserve">
-    <value>Degrees</value>
+    <value>Degrees deg</value>
     <comment>A measurement unit for Angle.</comment>
   </data>
   <data name="UnitName_Radian" xml:space="preserve">
-    <value>Radians</value>
+    <value>Radians rad</value>
     <comment>A measurement unit for Angle.</comment>
   </data>
   <data name="UnitName_Gradian" xml:space="preserve">
-    <value>Gradians</value>
+    <value>Gradians grad</value>
     <comment>A measurement unit for Angle.</comment>
   </data>
   <data name="UnitName_Atmosphere" xml:space="preserve">
-    <value>Atmospheres</value>
+    <value>Atmospheres atm</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_Bar" xml:space="preserve">
-    <value>Bars</value>
+    <value>Bars ba</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_KiloPascal" xml:space="preserve">
-    <value>Kilopascals</value>
+    <value>Kilopascals kPa</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_MillimeterOfMercury" xml:space="preserve">
-    <value>Millimeters of mercury </value>
+    <value>Millimeters of mercury mmHg</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_Pascal" xml:space="preserve">
-    <value>Pascals</value>
+    <value>Pascals Pa</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_PSI" xml:space="preserve">
-    <value>Pounds per square inch</value>
+    <value>Pounds per square inch psi</value>
     <comment>A measurement unit for Pressure.</comment>
   </data>
   <data name="UnitName_Centigram" xml:space="preserve">
-    <value>Centigrams</value>
+    <value>Centigrams cg</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Decagram" xml:space="preserve">
-    <value>Dekagrams</value>
+    <value>Dekagrams dag</value>
     <comment>A measurement unit for weight. Note: Dekagram is spelled "decagram" everywhere except where US English is used. (EN-US dekagram, elsewhere decagram). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Decigram" xml:space="preserve">
-    <value>Decigrams</value>
+    <value>Decigrams dg</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Gram" xml:space="preserve">
-    <value>Grams</value>
+    <value>Grams g</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Hectogram" xml:space="preserve">
-    <value>Hectograms</value>
+    <value>Hectograms hg</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kilogram" xml:space="preserve">
-    <value>Kilograms</value>
+    <value>Kilograms kg</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_LongTon" xml:space="preserve">
-    <value>Long tons (UK)</value>
+    <value>Long tons ton (UK)</value>
     <comment>A measurement unit for weight. This is the UK version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Milligram" xml:space="preserve">
-    <value>Milligrams</value>
+    <value>Milligrams mg</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Ounce" xml:space="preserve">
-    <value>Ounces</value>
+    <value>Ounces oz</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Pound" xml:space="preserve">
-    <value>Pounds</value>
+    <value>Pounds lb</value>
     <comment>A measurement unit for weight. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_ShortTon" xml:space="preserve">
-    <value>Short tons (US)</value>
+    <value>Short tons ton (US)</value>
     <comment>A measurement unit for weight. This is the US version of ton. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Stone" xml:space="preserve">
-    <value>Stone</value>
+    <value>Stone st</value>
     <comment>A measurement unit for weight. Equal to 14 pounds. Note that this is the plural form of the word in English (eg. "This man weighs 11 stone."). (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Tonne" xml:space="preserve">
-    <value>Metric tonnes</value>
+    <value>Metric tonnes t</value>
     <comment>A measurement unit for weight. This is the metric version of tonne. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_CD" xml:space="preserve">
@@ -2794,91 +2794,91 @@
     <comment>{Locked}This is the value that comes from the VirtualKey enum that represents the button. This value is not localized and must be one value that comes from the Windows::System::VirtualKey enum.</comment>
   </data>
   <data name="UnitName_Gibibits" xml:space="preserve">
-    <value>Gibibits</value>
+    <value>Gibibits Gi</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Gibibytes" xml:space="preserve">
-    <value>Gibibytes</value>
+    <value>Gibibytes GiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kibibits" xml:space="preserve">
-    <value>Kibibits</value>
+    <value>Kibibits Ki</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Kibibytes" xml:space="preserve">
-    <value>Kibibytes</value>
+    <value>Kibibytes KiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Mebibits" xml:space="preserve">
-    <value>Mebibits</value>
+    <value>Mebibits Mi</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Mebibytes" xml:space="preserve">
-    <value>Mebibytes</value>
+    <value>Mebibytes MiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Pebibits" xml:space="preserve">
-    <value>Pebibits</value>
+    <value>Pebibits Pi</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Pebibytes" xml:space="preserve">
-    <value>Pebibytes</value>
+    <value>Pebibytes PiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Tebibits" xml:space="preserve">
-    <value>Tebibits</value>
+    <value>Tebibits Ti</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Tebibytes" xml:space="preserve">
-    <value>Tebibytes</value>
+    <value>Tebibytes TiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Exabits" xml:space="preserve">
-    <value>Exabits</value>
+    <value>Exabits E</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Exabytes" xml:space="preserve">
-    <value>Exabytes</value>
+    <value>Exabytes EB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Exbibits" xml:space="preserve">
-    <value>Exbibits</value>
+    <value>Exbibits Ei</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Exbibytes" xml:space="preserve">
-    <value>Exbibytes</value>
+    <value>Exbibytes EiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Zetabits" xml:space="preserve">
-    <value>Zetabits</value>
+    <value>Zetabits Z</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Zetabytes" xml:space="preserve">
-    <value>Zetabytes</value>
+    <value>Zetabytes ZB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Zebibits" xml:space="preserve">
-    <value>Zebibits</value>
+    <value>Zebibits Zi</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Zebibytes" xml:space="preserve">
-    <value>Zebibytes</value>
+    <value>Zebibytes ZiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Yottabit" xml:space="preserve">
-    <value>Yottabits</value>
+    <value>Yottabits Y</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Yottabyte" xml:space="preserve">
-    <value>Yottabytes</value>
+    <value>Yottabytes YB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Yobibits" xml:space="preserve">
-    <value>Yobibits</value>
+    <value>Yobibits Yi</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="UnitName_Yobibytes" xml:space="preserve">
-    <value>Yobibytes</value>
+    <value>Yobibytes YiB</value>
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="DateCalculationModeText" xml:space="preserve">
